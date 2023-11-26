@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Pankaj</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://imgs.search.brave.com/FSwVGYRXrxK2mwN-OGgJQTVEM-HkY8CK-ViXhkxquvI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naXN0/LmdpdGh1Yi5jb20v/cGF0ZXZzL2IwMDdh/MGU5OGZiMjE2NDM4/ZDRjYmY1NTlmYWM0/MTY2L3Jhdy84OGYy/MGM5ZDc0OWQ3NTZi/ZTYzZjIyYjA5ZjNj/NGFjNTcwYmM1MTAx/L3Byb2dyYW1taW5n/LmdpZg.gif" alt="">
